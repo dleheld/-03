@@ -123,6 +123,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="거듭제곱.cpp" />
+    <ClCompile Include="병합정렬.cpp" />
     <ClCompile Include="분할정복.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
